@@ -62,3 +62,9 @@ seqtk subseq Poil_scaffold.fa tmp.txt >longest.fasta
 ![image](https://user-images.githubusercontent.com/55449081/138959676-79aec7c4-7006-47c1-9c09-7cdac27466a2.png)
 ![image](https://user-images.githubusercontent.com/55449081/138959771-bf64d99e-fbcf-4af3-8026-ded254eb1315.png)
 ![image](https://user-images.githubusercontent.com/55449081/138959846-29ffc01a-d778-4084-8f33-dce5307ca695.png)
+
+Обрезанные адаптеры
+![image](https://user-images.githubusercontent.com/55449081/138960636-d64f6a87-20a5-4827-a85d-14d7da068dc4.png)
+![image](https://user-images.githubusercontent.com/55449081/138960664-40728463-1491-49e3-a21b-83334a111255.png)
+![image](https://user-images.githubusercontent.com/55449081/138960849-687e3efa-6b5b-449e-ad11-f4de0bd1b1b3.png)
+
