@@ -1,6 +1,6 @@
 # ДЗ1
-## Используемые команды
-Ссылка на Colab: https://colab.research.google.com/drive/12z5yYSHlOIYH_tYIJkE7VyYcNrck20M6#scrollTo=NbsPxwWZAsFv
+## Ссылка на Colab
+https://colab.research.google.com/drive/12z5yYSHlOIYH_tYIJkE7VyYcNrck20M6#scrollTo=NbsPxwWZAsFv
 ## Используемые команды
 Создание ссылок на файлы
 ```
