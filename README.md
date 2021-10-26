@@ -1,5 +1,5 @@
-## ДЗ1
-# Используемые команды
+# ДЗ1
+## Используемые команды
 Создание ссылок на файлы
 ```
 ln -s /usr/share/data-minor-bioinf/assembly/oil_R1.fastq
@@ -57,3 +57,8 @@ platanus gap_close -o Poil -t 1 -c Poil_scaffold.fa -IP1 *.trimmed -OP2 *.int_tr
 echo scaffold1_len3834572_cov232 > tmp.txt
 seqtk subseq Poil_scaffold.fa tmp.txt >longest.fasta
 ```
+## Multiqc screenshots
+Начальные варианты
+![image](https://user-images.githubusercontent.com/55449081/138959676-79aec7c4-7006-47c1-9c09-7cdac27466a2.png)
+![image](https://user-images.githubusercontent.com/55449081/138959771-bf64d99e-fbcf-4af3-8026-ded254eb1315.png)
+![image](https://user-images.githubusercontent.com/55449081/138959846-29ffc01a-d778-4084-8f33-dce5307ca695.png)
